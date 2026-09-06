@@ -27,5 +27,4 @@ API REST desenvolvida em **Java (Spring Boot)** para o gerenciamento de uma loja
 * `GET /pedidos/{id}` - Consulta um pedido por ID
 * `DELETE /pedidos/{id}` - Remove um pedido por ID
 
----
-Desenvolvido por **Michelle Ferraz de Oliveira Nogueira** (RU: 4144573)[cite: 2].
+Desenvolvido por **Michelle Ferraz de Oliveira Nogueira** (RU: 4144573)
